@@ -29,3 +29,6 @@ Security Precautions:
 Legal Disclaimer:
   
     This project is for educational and ethical hacking purposes only. Unauthorized use or distribution of ransomware is illegal and punishable by law. The creator is not responsible for any misuse.
+
+Output:
+  
