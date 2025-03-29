@@ -31,4 +31,7 @@ Legal Disclaimer:
     This project is for educational and ethical hacking purposes only. Unauthorized use or distribution of ransomware is illegal and punishable by law. The creator is not responsible for any misuse.
 
 Output:
+  Webpage:
+    
+    ![image alt] (https://github.com/bala-ganesh-m/Ransomware-Attack/blob/56597e6dd7ea4c11dd4db50a1df6942e15aed001/Web-page-index.png)
   
