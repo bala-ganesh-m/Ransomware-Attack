@@ -5,7 +5,10 @@ Introduction:
   Psycho is a Golang-based ransomware designed for research and educational purposes. It demonstrates how ransomware spreads through Trojan horse techniques, tricking victims into downloading a disguised malicious file.
 
 How It Works:
-  A fake game webpage (Dragon Hunt) is created to trick users. Victims receive a phishing email with a link to the webpage. They download the ransomware, thinking it’s a game. Upon execution, files are encrypted, and a ransom note appears demanding payment.
+  A fake game webpage (Dragon Hunt) is created to trick users. 
+  Victims receive a phishing email with a link to the webpage. 
+  They download the ransomware, thinking it’s a game. 
+  Upon execution, files are encrypted, and a ransom note appears demanding payment.
 
 Key Features:
   Advanced File Encryption – Secures victim’s files using strong encryption algorithms.
