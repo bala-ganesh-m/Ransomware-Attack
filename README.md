@@ -33,5 +33,5 @@ Legal Disclaimer:
 Output:
   Webpage:
     
-    ![image alt] (https://github.com/bala-ganesh-m/Ransomware-Attack/blob/56597e6dd7ea4c11dd4db50a1df6942e15aed001/Web-page-index.png)
+    ![image alt](https://github.com/bala-ganesh-m/Ransomware-Attack/blob/56597e6dd7ea4c11dd4db50a1df6942e15aed001/Web-page-index.png)
   
